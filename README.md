@@ -1,6 +1,6 @@
 # Hello, I'm Jonas Torres Rodrigues! 👋
 
-I'm a 21-year-old Brazilian student pursuing a degree in Production Engineering with a deep interest in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision. 
+I'm a 21-year-old Brazilian student pursuing a degree in Production Engineering with a deep interest in  Operational Research, Data Science, Machine Learning, Artificial Intelligence, and Computer Vision. 
 
 ## 💻 What I'm Working On
 I'm currently a technological research fellow, developing a computational tool for sensitivity analysis in production chains. My project leverages Monte Carlo simulations, multicriteria decision methods, and multi-objective programming.
