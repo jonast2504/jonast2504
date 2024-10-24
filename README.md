@@ -1,4 +1,4 @@
-# Hello, I'm Jonas Torres Rodrigues! 👋
+# Hello, I'm Jonas! 👋
 
 I'm a 21-year-old Brazilian student pursuing a degree in Industrial Engineering with a deep interest in  Operational Research, Data Science, Machine Learning, Artificial Intelligence, and Computer Vision. 
 
