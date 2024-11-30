@@ -11,7 +11,7 @@ I'm currently a technological research fellow, developing a computational tool f
 - **Technologies**: Jupyter Notebooks, Power BI, Excel, Trello
 
 ## 🌱 What I'm Learning
-I'm constantly expanding my knowledge of Python libraries related to Data Science and Machine Learning. In the near future, I plan to share interesting projects here, as I continue to grow and explore new technologies.
+I'm constantly expanding my knowledge of Python libraries related to Data Science, Machine Learning and Optimization. In the near future, I plan to share interesting projects here, as I continue to grow and explore new technologies.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jonas-t-rodrigues-79022a22b/)
