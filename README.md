@@ -7,7 +7,7 @@ I'm currently a technological research fellow, developing a computational tool f
 
 ## 🛠️ My Skills
 - **Programming**: Python, R and C
-- **Data Science & AI Libraries**: Pandas, NumPy, SciPy, Matplotlib, Seaborn Scikit-learn, and more
+- **Data Science & AI Libraries**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, and more
 - **Technologies**: Jupyter Notebooks, VSCode, Git and Github, Power BI, Excel, Trello
 
 ## 🌱 What I'm Learning
