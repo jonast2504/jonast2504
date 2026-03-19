@@ -6,7 +6,7 @@ I'm a 22-year-old Brazilian student pursuing a degree in Industrial Engineering 
 I'm currently a technological research fellow, developing a computational tool for sensitivity analysis in production chains. My project leverage multicriteria decision methods, and multi-objective programming.
 
 ## 🛠️ My Skills
-- **Programming**: Python, R and C
+- **Programming**: Python, R 
 - **Data Science & AI Libraries**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, and more
 - **Technologies**: Jupyter Notebooks, VSCode, Git and Github, Power BI, Excel, Trello
 
